@@ -50,14 +50,7 @@ Currently studying **Computer Systems and Networks** at **Universidade Wutivi**,
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Helder-Guambe&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-Guambe&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
----
 
 ## 📫 Contact  
 - ✉️ Email: **helderguambe.hg3@gmail.com**  
